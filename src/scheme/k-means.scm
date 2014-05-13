@@ -81,7 +81,7 @@
             keys))
        rest))
     nil
-    properties)))
+    properties))))))
 
 (accumulate + 0 '(1 2 3 4))
 (map square '(1 2 3 4))
